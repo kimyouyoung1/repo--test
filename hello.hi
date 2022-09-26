@@ -1,2 +1,2 @@
-print(push & pull)
+print('push & pull')
 print('clone')
